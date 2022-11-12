@@ -1,7 +1,7 @@
 {
-  "name": "hacker-news-frontend-avito",
+  "name": "hacker-news-frontend",
   "version": "1.0.0",
-  "homepage": "https://mark-makarov.github.io/hacker-news-frontend-avito",
+  "homepage": "https://mark-makarov.github.io/hacker-news-frontend",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
